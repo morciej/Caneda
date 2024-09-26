@@ -92,7 +92,7 @@
     </properties>
 
     <models>
-        <model type="spice" syntax="T%label %port{in+} %port{in-} %port{out+} %port{out-} 0 0 Z0=%property{Z0} F=%property{freq} NL=%property{nl}
+        <model type="spice" syntax="T%label %port{in+} %port{in-} %port{out+} %port{out-} Z0=%property{Z0} F=%property{freq} NL=%property{nl}
                                     IC=%property{ic_v1},%property{ic_i1},%property{ic_v2},%property{ic_i2}"/>
     </models>
 </component>
