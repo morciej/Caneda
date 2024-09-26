@@ -32,10 +32,10 @@
     </description>
 
     <symbol>
-        <painting name="line" line="0,0,8,0" pos="-50,-10" transform="1,0,0,1,0,0"/>
-        <painting name="line" line="0,0,10,0" pos="40,-10" transform="1,0,0,1,0,0"/>
-        <painting name="line" line="0,0,8,0" pos="-50,10" transform="1,0,0,1,0,0"/>
-        <painting name="line" line="0,0,10,0" pos="40,10" transform="1,0,0,1,0,0"/>
+        <painting name="line" line="0,0,8,0" pos="-50,-5" transform="1,0,0,1,0,0"/>
+        <painting name="line" line="0,0,10,0" pos="40,-5" transform="1,0,0,1,0,0"/>
+        <painting name="line" line="0,0,8,0" pos="-50,5" transform="1,0,0,1,0,0"/>
+        <painting name="line" line="0,0,10,0" pos="40,5" transform="1,0,0,1,0,0"/>
 
         <painting name="line" line="0,0,78,0" pos="-38,12" transform="1,0,0,1,0,0"/>
         <painting name="line" line="0,0,78,0" pos="-38,-12" transform="1,0,0,1,0,0"/>
@@ -47,10 +47,10 @@
     </symbol>
 
     <ports>
-        <port name="in+" pos="-50,-10"/>
-        <port name="in-" pos="50,10"/>
-        <port name="out+" pos="50,-10"/>
-        <port name="out-" pos="-50,10"/>
+        <port name="in+" pos="-50,-5"/>
+        <port name="in-" pos="50,5"/>
+        <port name="out+" pos="50,-5"/>
+        <port name="out-" pos="-50,5"/>
     </ports>
 
     <properties>
